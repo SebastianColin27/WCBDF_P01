@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.upiiz.jscb_P01.JscbP01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.737 s -- in com.upiiz.jscb_P01.JscbP01ApplicationTests
